@@ -1,1 +1,1 @@
-Just a simple layout of site)
+Just a simple website layout with some effects)
